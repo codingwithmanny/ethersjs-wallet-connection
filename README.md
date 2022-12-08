@@ -2,6 +2,10 @@
 
 Ever wanted to know how to connect/disconnect/auto-connect and perform RPC requests with just EthersJS?
 
+ℹ️ **NOTE:** This is a forked version of the [VanillaJS Wallet Connection Repo](https://github.com/codingwithmanny/vanillajs-wallet-connection)
+
+This project demonstrates all this and more and was built in tandem with the article [Use EthersJS To Connect To MetaMask & Read +Write From A Contract](https://codingwithmanny.medium.com/use-ethersjs-to-connect-to-metamask-read-write-from-a-contract-fe81efedb6f6).
+
 ![EthersJS Wallet Connection Screenshot](/README/screenshot.png)
 
 ## Demo
